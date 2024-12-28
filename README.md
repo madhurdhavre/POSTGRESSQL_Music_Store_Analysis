@@ -46,7 +46,7 @@ Explored real-world business scenarios using SQL queries.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/music-store-analysis.git  
+git clone https://github.com/madhurdhavre/music-store-analysis.git  
 Set up PostgreSQL and import the dataset (provided in the repository).
 Explore the SQL scripts in the /queries folder to run the analysis.
 🎉 Acknowledgment
